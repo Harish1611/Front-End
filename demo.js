@@ -1,0 +1,1 @@
+console.log("This is second demo app JS");
